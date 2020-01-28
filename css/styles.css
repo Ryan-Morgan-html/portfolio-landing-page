@@ -1,1 +1,36 @@
-blank
+body {
+  background-color: #DCC7AA;
+  background: url(../img/mosaic.jpg);
+  background-position: center;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+h2 {
+  font-size: 275%;
+}
+
+h3 {
+  font-size: 225%;
+}
+
+img {
+  width: 100% ;
+  height: auto;
+}
+
+p {
+  font-family: Helvetica, sans-serif;
+  font-size: 110%;
+}
+
+ul {
+  font-family: Helvetica, sans-serif;
+  font-size: 110%;
+}
+
+.panel-title {
+  font-size: 130%;
+}
