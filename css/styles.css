@@ -35,12 +35,12 @@ ul {
   font-size: 130%;
 }
 
-.btn btn-secondary {
-  ;
-}
-
 a {
   color: black;
+}
+
+.awesome {
+  color: goldenrod;
 }
 
 
