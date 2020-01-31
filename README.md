@@ -10,7 +10,7 @@ _As Intro to Programming has just completed their third week at Epicodus, it's t
 
 ## Setup/Installation Requirements
 
-_This code doesn't depend on any outside sources. Simply run it on a web browser!_
+_To run the code in this repository, one will need to clone it to his desktop, and then open the html files using a web browser. The web browser (firefox, google chrome, internet explorer etc.) will the interpret the code. This webpage can also be viewed on GitHub pages at: https://ryan-morgan-html.github.io/portfolio-landing-page/._
 
 ## Known Bugs
 
